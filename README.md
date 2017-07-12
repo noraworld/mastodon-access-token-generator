@@ -2,7 +2,7 @@
 Generate an access token for Mastodon.
 
 ## Usage
-For details on the Mastodon API, see https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md#apps.
+For details on the Mastodon API, see [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md#apps).
 
 ### Interactive mode
 
