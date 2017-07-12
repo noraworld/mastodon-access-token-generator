@@ -1,6 +1,10 @@
 # Mastodon Access Token Generator
 Generate an access token for Mastodon.
 
+## Requirement
+
+- jq
+
 ## Usage
 For details on the Mastodon API, see [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md#apps).
 
