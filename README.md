@@ -11,7 +11,7 @@ $ sh mastodon.sh
 Enter your host: https://mastodon.social
 Enter client name: My Mastodon App
 Enter scope: read write follow
-Enter website: http://myappwebsite.com
+Enter website: (optional) http://myappwebsite.com
 
 Access https://mastodon.social/oauth/authorize?client_id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&response_type=code&redirect_uri=urn:ietf:wg:oauth:2.0:oob&scope=read%20write%20follow and click "AUTHORIZE" button. Then copy the code and paste it here after the message "Enter authorization code".
 
